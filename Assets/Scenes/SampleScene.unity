@@ -1627,7 +1627,7 @@ MonoBehaviour:
   contadorIzquierda: {fileID: 1634284672}
   contadorDerecha: {fileID: 1783628533}
   txtTiempo: {fileID: 1812921702}
-  timer: 160
+  timer: 0
 --- !u!82 &932755007
 AudioSource:
   m_ObjectHideFlags: 0
